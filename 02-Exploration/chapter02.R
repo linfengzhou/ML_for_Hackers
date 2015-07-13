@@ -17,7 +17,7 @@
 
 #
 # Snippet 1
-#
+#setwd("E:/Github Data/ML_for_Hackers/02-Exploration")
 
 # Load in the data set from disk.
 data.file <- file.path('data', '01_heights_weights_genders.csv')
